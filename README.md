@@ -1,3 +1,5 @@
+https://github.com/Sergej0023/DiceGame
+
 ## Pig Dice Game
 
 # About
